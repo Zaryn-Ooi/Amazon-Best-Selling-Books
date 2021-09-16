@@ -45,6 +45,14 @@ GROUP BY BooksName, Reviews, Genre
 ORDER BY Reviews DESC 
 
 
+-- Top 10 Most Reviewed books & Rating with 4.7 and above 
+SELECT TOP 10 BooksName, Reviews
+FROM master..['bestsellers$']
+WHERE [User Rating] > 4.7
+GROUP BY BooksName, Reviews, [User Rating]
+ORDER BY Reviews DESC 
+
+
 -- Average User Rating by Genre 
 SELECT Genre, AVG([User Rating]) AS Average_User_Rating
 FROM master..['bestsellers$']
