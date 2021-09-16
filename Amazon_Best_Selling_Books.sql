@@ -45,7 +45,7 @@ GROUP BY BooksName, Reviews, Genre
 ORDER BY Reviews DESC 
 
 
--- Average User Rating by Genre from 2009 to 2019
+-- Average User Rating by Genre 
 SELECT Genre, AVG([User Rating]) AS Average_User_Rating
 FROM master..['bestsellers$']
 GROUP BY Genre
