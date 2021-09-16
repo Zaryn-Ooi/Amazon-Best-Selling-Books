@@ -37,6 +37,14 @@ GROUP BY BooksName, Reviews, Genre
 ORDER BY Reviews DESC 
 
 
+-- Top 10 Most Reviewed Non Fiction books 
+SELECT TOP 10 BooksName, Reviews
+FROM master..['bestsellers$']
+WHERE Genre = 'Non Fiction'
+GROUP BY BooksName, Reviews, Genre
+ORDER BY Reviews DESC 
+
+
 -- Average User Rating by Genre from 2009 to 2019
 SELECT Genre, AVG([User Rating]) AS Average_User_Rating
 FROM master..['bestsellers$']
