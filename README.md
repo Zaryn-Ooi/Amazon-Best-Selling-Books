@@ -4,7 +4,10 @@
 
 Dataset on Amazon's Top 50 bestselling books from 2009 to 2019. Contains 550 books, data has been categorized into fiction and non-fiction using Goodreads
 
-### This project uses 
+### Tools
+This project uses: 
+- SQL (for data cleaning and data exploration)  
+- Tableau (for data visualization)
 - SQL (for data cleaning and data exploration)  
 - Tableau (for data visualization)
 
