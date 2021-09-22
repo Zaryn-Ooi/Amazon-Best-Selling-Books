@@ -11,4 +11,4 @@ This project uses:
 - SQL (for data cleaning and data exploration)  
 - Tableau (for data visualization)
 
-[Click to view Tableau Dashboard](https://public.tableau.com/views/AmazonTop50BestsellingBooks_16319436251350/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+#### [Click to view Tableau Dashboard](https://public.tableau.com/views/AmazonTop50BestsellingBooks_16319436251350/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
