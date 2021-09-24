@@ -8,4 +8,4 @@ Dataset on Amazon's Top 50 bestselling books from 2009 to 2019. This dataset con
 ## 2) Tools
 This project uses: 
 #### - [SQL (for data cleaning and data exploration)](https://github.com/Zaryn-Ooi/Amazon-Top-50-Best-Selling-Books/blob/main/Amazon_Best_Selling_Books.sql) 
-#### - [Tableau (for data visualization)] (https://public.tableau.com/views/AmazonTop50BestsellingBooks_16319436251350/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+#### - [Tableau (for data visualization)](https://public.tableau.com/views/AmazonTop50BestsellingBooks_16319436251350/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
