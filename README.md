@@ -1,4 +1,4 @@
-# Amazon-Top-50-Best-Selling-Books
+# Amazon-Best-Selling-Books
 
 ## 1) Data Source
 #### [Amazon Top 50 Bestselling Books 2009-2019](https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019/code)
